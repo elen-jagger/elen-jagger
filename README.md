@@ -13,7 +13,8 @@ const AboutMe {
                 english: "C1",
                 russian: "native",
                 polish: "B1-B2",
-               }
+               },
+    mission: ["integrate cutting-edge technology with medicine", "have fun"],
 }
 ```
 <!--
