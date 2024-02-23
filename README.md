@@ -1,4 +1,5 @@
-![back](https://github.com/elen-jagger/elen-jagger/assets/86792831/2c4acb18-0fe8-42d7-959b-b101b81f0aa0)
+
+![back](https://github.com/elen-jagger/elen-jagger/assets/86792831/28ed4cf3-c395-4925-9722-f456dad054f2)
 ```swift
 const AboutMe {
     name: "Elena",
