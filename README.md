@@ -39,6 +39,7 @@ const AboutMe {
 <br>
 <br>
 <br>
+<br>
 <img width="250px" align="left" src="https://github.com/elen-jagger/elen-jagger/blob/main/minesweeper.jpg?raw=true">
 <p>
     <h3>Minesweeper Game with 3 levels and possibility to choose number of bombs on the field, dark/light mode and sound on/off.</h3>
@@ -71,7 +72,7 @@ const AboutMe {
 <br>
 <br>
 <br>
-<img width="250px" align="left" src="https://github.com/elen-jagger/elen-jagger/blob/main/unsplash.jpg?raw=true">
+<img width="250px" align="left" src="https://github.com/elen-jagger/elen-jagger/blob/main/shelter.jpg?raw=true">
 <p>
     <h3>Pets shelter responsive design web page</h3>
     <b>Stack:</b> JavaScript (ES6+), HTML5, CSS.
