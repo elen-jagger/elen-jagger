@@ -23,12 +23,29 @@ const AboutMe {
     <img height="40px"  src="https://readme-components.vercel.app/api?component=logo&fill=001443&logo=html5&svgfill=f06629">
     <img height="40px" src="https://readme-components.vercel.app/api?component=logo&fill=001443&logo=css3&svgfill=15d8fe">
     <img height="40px"  src="https://readme-components.vercel.app/api?component=logo&fill=001443&logo=sass&svgfill=cd6799">
-    <img height="40px" src="https://readme-components.vercel.app/api?component=logo&fill=001443&logo=🌈&desc=MaterialUI">  
+    <img height="40px" src="https://readme-components.vercel.app/api?component=logo&fill=001443&logo=🌈&desc=MaterialUI">
     <img height="40px"  src="https://readme-components.vercel.app/api?component=logo&fill=001443&logo=node.js&svgfill=659b60">
     <img height="40px"  src="https://readme-components.vercel.app/api?component=logo&fill=001443&logo=github&svgfill=f6df1c">
-    <img height="40px" src="https://readme-components.vercel.app/api?component=logo&fill=001443&logo=🚀&desc=Phaser">  
+    <img height="40px" src="https://readme-components.vercel.app/api?component=logo&fill=001443&logo=🚀&desc=Phaser">
 </p>
 <h2 align="center">My projects</h2>
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+    <div>
+      <img src="css_selectors.jpg" alt="">
+      <div style="display: flex; flex-direction: row; justify-content: space-between;">
+        <p>project1</p>
+        <p>line1</p>
+        <p>line2</p>
+      </div>
+    <div>
+      <img src="virtual_kb.jpg" alt="">
+      <div style="display: flex; flex-direction: row; justify-content: space-between;">
+        <p>project2</p>
+        <p>line1</p>
+        <p>line2</p>
+      </div>
+    </div>
+</div>
 
 <!--
 **elen-jagger/elen-jagger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
