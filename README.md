@@ -29,18 +29,57 @@ const AboutMe {
     <img height="40px" src="https://readme-components.vercel.app/api?component=logo&fill=001443&logo=🚀&desc=Phaser">
 </p>
 <h2 align="center">My projects</h2>
-<img width="250px" align="left" src="https://github.com/elen-jagger/elen-jagger/blob/main/css_selectors.jpg">
+<img width="250px" align="left" src="https://github.com/elen-jagger/elen-jagger/blob/main/css_selectors.jpg?raw=true">
 <p>
     <h3>Browser game for studying CSS selectors</h3>
     <b>Stack:</b> TypeScript, JavaScript (ES6+), HTML5, CSS, Webpack, ESLint.
     <br>
     <a href="https://rolling-scopes-school.github.io/elen-jagger-JSFE2023Q1/rss-css-selectors/" target="blank">See it</a>
 </p>
-    
-
-
-
-
+<br>
+<br>
+<br>
+<img width="250px" align="left" src="https://github.com/elen-jagger/elen-jagger/blob/main/minesweeper.jpg?raw=true">
+<p>
+    <h3>Minesweeper Game with 3 levels and possibility to choose number of bombs on the field, dark/light mode and sound on/off.</h3>
+    <b>Stack:</b> JavaScript (ES6+), HTML5, CSS.
+    <br>
+    <a href="https://rolling-scopes-school.github.io/elen-jagger-JSFE2023Q1/minesweeper/" target="blank">See it</a>
+</p>
+<br>
+<br>
+<br>
+<img width="250px" align="left" src="https://github.com/elen-jagger/elen-jagger/blob/main/virtual_kb.jpg?raw=true">
+<p>
+    <h3>Virtual keyboard</h3>
+    <b>Stack:</b> JavaScript (ES6+), HTML5, CSS.
+    <br>
+    <a href="https://elen-jagger.github.io/virtual-keyboard/" target="blank">See it</a>
+</p>
+<br>
+<br>
+<br>
+<img width="250px" align="left" src="https://github.com/elen-jagger/elen-jagger/blob/main/unsplash.jpg?raw=true">
+<p>
+    <h3>Application for images searching using Unsplash API</h3>
+    <b>Stack:</b> JavaScript (ES6+), HTML5, CSS.
+    <br>
+    <b>Technologies:</b>  RESTful API, Responsive (Adaptive) Web Design.
+    <br>
+    <a href="https://rolling-scopes-school.github.io/elen-jagger-JSFEPRESCHOOL/image-galery/" target="blank">See it</a>
+</p>
+<br>
+<br>
+<br>
+<img width="250px" align="left" src="https://github.com/elen-jagger/elen-jagger/blob/main/unsplash.jpg?raw=true">
+<p>
+    <h3>Pets shelter responsive design web page</h3>
+    <b>Stack:</b> JavaScript (ES6+), HTML5, CSS.
+    <br>
+    <b>Technologies:</b>  RESTful API, Responsive (Adaptive) Web Design.
+    <br>
+    <a href="https://rolling-scopes-school.github.io/elen-jagger-JSFE2023Q1/shelter/pages/main/" target="blank">See it</a>
+</p>
 
 
 
