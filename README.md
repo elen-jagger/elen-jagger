@@ -1,6 +1,6 @@
 
 ![back_blue](https://github.com/elen-jagger/elen-jagger/assets/86792831/67e12dcb-26cb-43ad-9992-4a8ae79c3035)
-
+<!--
 ```swift
 const AboutMe {
     name: "Elena",
@@ -14,7 +14,22 @@ const AboutMe {
                },
     mission: ["integrate cutting-edge technology with medicine", "have fun"],
 }
-```
+```-->
+<h2 align="center">My stack</h2>
+<p align="center">
+    <img height="40px" src="https://readme-components.vercel.app/api?component=logo&fill=001443&logo=react&svgfill=15d8fe">
+    <img height="40px"  src="https://readme-components.vercel.app/api?component=logo&fill=001443&logo=typescript&svgfill=2d79c7">
+    <img height="40px"  src="https://readme-components.vercel.app/api?component=logo&fill=001443&logo=javascript&svgfill=f6df1c">
+    <img height="40px"  src="https://readme-components.vercel.app/api?component=logo&fill=001443&logo=html5&svgfill=f06629">
+    <img height="40px" src="https://readme-components.vercel.app/api?component=logo&fill=001443&logo=css3&svgfill=15d8fe">
+    <img height="40px"  src="https://readme-components.vercel.app/api?component=logo&fill=001443&logo=sass&svgfill=cd6799">
+    <img height="40px" src="https://readme-components.vercel.app/api?component=logo&fill=001443&logo=🌈&desc=MaterialUI">  
+    <img height="40px"  src="https://readme-components.vercel.app/api?component=logo&fill=001443&logo=node.js&svgfill=659b60">
+    <img height="40px"  src="https://readme-components.vercel.app/api?component=logo&fill=001443&logo=github&svgfill=f6df1c">
+    <img height="40px" src="https://readme-components.vercel.app/api?component=logo&fill=001443&logo=🚀&desc=Phaser">  
+</p>
+<h2 align="center">My projects</h2>
+
 <!--
 **elen-jagger/elen-jagger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
