@@ -29,35 +29,18 @@ const AboutMe {
     <img height="40px" src="https://readme-components.vercel.app/api?component=logo&fill=001443&logo=🚀&desc=Phaser">
 </p>
 <h2 align="center">My projects</h2>
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
-    <div>
-      <img src="css_selectors.jpg" alt="">
-      <div style="display: flex; flex-direction: row; justify-content: space-between;">
-        <p>project1</p>
-        <p>line1</p>
-        <p>line2</p>
-      </div>
-    <div>
-      <img src="virtual_kb.jpg" alt="">
-      <div style="display: flex; flex-direction: row; justify-content: space-between;">
-        <p>project2</p>
-        <p>line1</p>
-        <p>line2</p>
-      </div>
-    </div>
-</div>
+<img width="250px" align="left" src="https://github.com/elen-jagger/elen-jagger/blob/main/css_selectors.jpg">
+<p>
+    <h3>Browser game for studying CSS selectors</h3>
+    <b>Stack:</b> TypeScript, JavaScript (ES6+), HTML5, CSS, Webpack, ESLint.
+    <br>
+    <a href="https://rolling-scopes-school.github.io/elen-jagger-JSFE2023Q1/rss-css-selectors/" target="blank">See it</a>
+</p>
+    
 
-<!--
-**elen-jagger/elen-jagger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
