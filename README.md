@@ -92,6 +92,14 @@ const AboutMe {
     <br>
     <b><a href="https://github.com/elen-jagger/HTML-builder" target="blank">See it</a></b>
 </p>
+<br>
+<p>
+    <h2>Tasks on Algorithms and Data Structures</h2>
+    <p>...and other tasks can be found in my repos</p>
+    <b><a href="https://github.com/elen-jagger/basic-js-ds" target="blank">See Data Structures tasks</a></b>
+    <br>
+    <b><a href="https://github.com/elen-jagger/basic-js" target="blank">See Algorithmic tasks</a></b>
+</p>
 
 
 
