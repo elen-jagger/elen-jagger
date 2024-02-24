@@ -74,12 +74,23 @@ const AboutMe {
 <br>
 <img width="250px" align="left" src="https://github.com/elen-jagger/elen-jagger/blob/main/shelter.jpg?raw=true">
 <p>
-    <h3>Pets shelter responsive design web page</h3>
+    <h3>Pets shelter responsive design web page
     <b>Stack:</b> JavaScript (ES6+), HTML5, CSS.
     <br>
     <b>Technologies:</b>  RESTful API, Responsive (Adaptive) Web Design.
     <br>
     <a href="https://rolling-scopes-school.github.io/elen-jagger-JSFE2023Q1/shelter/pages/main/" target="blank">See it</a>
+</p>
+<br>
+<br>
+<br>
+<p>
+    <h2>Project in Node.js</h2>
+    <p>It required:<br>• Reading a file with console output<br>• Writing console input to file<br>• Displaying information about files stored in a folder<br>• Copying a directory<br>• Building the CSS bundle from separate files<br>• Building an HTML page from components and styles.
+    </p>
+    <b>Stack:</b> JavaScript (ES6+), Node.js, HTML5, CSS.
+    <br>
+    <a href="https://github.com/elen-jagger/HTML-builder" target="blank">See it</a>
 </p>
 
 
