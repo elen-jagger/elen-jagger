@@ -99,7 +99,7 @@ const AboutMe {
     <b><a href="https://github.com/elen-jagger/basic-js-ds" target="blank">See Data Structures tasks</a></b>
     <br>
     <b><a href="https://github.com/elen-jagger/basic-js" target="blank">See Algorithmic tasks</a></b>
-    
+    <br>
     <p>...and other tasks can be found in my repos</p>
 </p>
 
