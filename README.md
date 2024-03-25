@@ -1,5 +1,6 @@
 
-![back_blue](https://github.com/elen-jagger/elen-jagger/assets/86792831/67e12dcb-26cb-43ad-9992-4a8ae79c3035)
+![back_orange](https://github.com/elen-jagger/elen-jagger/assets/86792831/f4e6e78a-361c-4247-8d29-1bea8b340205)
+
 <!--
 ```swift
 const AboutMe {
