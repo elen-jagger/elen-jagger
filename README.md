@@ -35,7 +35,7 @@ const AboutMe {
     <h3>Browser game for studying CSS selectors</h3>
     <b>Stack:</b> TypeScript, JavaScript (ES6+), HTML5, CSS, Webpack, ESLint.
     <br>
-    <b><a href="https://rolling-scopes-school.github.io/elen-jagger-JSFE2023Q1/rss-css-selectors/" target="blank">See it</a></b>
+    <b><a href="https://rolling-scopes-school.github.io/elen-jagger-JSFE2023Q1/rss-css-selectors/" target="blank">Live demo</a></b>
 </p>
 <br>
 <br>
@@ -46,7 +46,7 @@ const AboutMe {
     <h3>Minesweeper Game with 3 levels and possibility to choose number of bombs on the field, dark/light mode and sound on/off.</h3>
     <b>Stack:</b> JavaScript (ES6+), HTML5, CSS.
     <br>
-    <b><a href="https://rolling-scopes-school.github.io/elen-jagger-JSFE2023Q1/minesweeper/" target="blank">See it</a></b>
+    <b><a href="https://rolling-scopes-school.github.io/elen-jagger-JSFE2023Q1/minesweeper/" target="blank">Live demo</a></b>
 </p>
 <br>
 <br>
@@ -56,7 +56,7 @@ const AboutMe {
     <h3>Virtual keyboard</h3>
     <b>Stack:</b> JavaScript (ES6+), HTML5, CSS.
     <br>
-    <b><a href="https://elen-jagger.github.io/virtual-keyboard/" target="blank">See it</a></b>
+    <b><a href="https://elen-jagger.github.io/virtual-keyboard/" target="blank">Live demo</a></b>
 </p>
 <br>
 <br>
@@ -68,7 +68,7 @@ const AboutMe {
     <br>
     <b>Technologies:</b>  RESTful API, Responsive (Adaptive) Web Design.
     <br>
-    <b><a href="https://rolling-scopes-school.github.io/elen-jagger-JSFEPRESCHOOL/image-galery/" target="blank">See it</a></b>
+    <b><a href="https://rolling-scopes-school.github.io/elen-jagger-JSFEPRESCHOOL/image-galery/" target="blank">Live demo</a></b>
 </p>
 <br>
 <br>
@@ -80,7 +80,7 @@ const AboutMe {
     <br>
     <b>Technologies:</b>  RESTful API, Responsive (Adaptive) Web Design.
     <br>
-    <b><a href="https://rolling-scopes-school.github.io/elen-jagger-JSFE2023Q1/shelter/pages/main/" target="blank">See it</a></b>
+    <b><a href="https://rolling-scopes-school.github.io/elen-jagger-JSFE2023Q1/shelter/pages/main/" target="blank">Live demo</a></b>
 </p>
 <br>
 <br>
@@ -91,15 +91,16 @@ const AboutMe {
     </p>
     <b>Stack:</b> JavaScript (ES6+), Node.js, HTML5, CSS.
     <br>
-    <b><a href="https://github.com/elen-jagger/HTML-builder" target="blank">See it</a></b>
+    <b><a href="https://github.com/elen-jagger/HTML-builder" target="blank">Live demo</a></b>
 </p>
 <br>
 <p>
     <h2>Tasks on Algorithms and Data Structures</h2>
-    <p>...and other tasks can be found in my repos</p>
     <b><a href="https://github.com/elen-jagger/basic-js-ds" target="blank">See Data Structures tasks</a></b>
     <br>
     <b><a href="https://github.com/elen-jagger/basic-js" target="blank">See Algorithmic tasks</a></b>
+    
+    <p>...and other tasks can be found in my repos</p>
 </p>
 
 
