@@ -1,21 +1,6 @@
 
 ![back_orange](https://github.com/elen-jagger/elen-jagger/assets/86792831/f4e6e78a-361c-4247-8d29-1bea8b340205)
 
-<!--
-```swift
-const AboutMe {
-    name: "Elena",
-    profession: "Frontend Developer",
-    techStack: ["React.js", "JavaScript", "TypeScript", "HTML", "CSS", "SASS", "Material UI", "Jest", "Phaser"],
-    background: ["Senior Researcher in Oncology", "PhD in Medicine"],
-    languages: {
-                english: "C1",
-                russian: "native",
-                polish: "B1-B2",
-               },
-    mission: ["integrate cutting-edge technology with medicine", "have fun"],
-}
-```-->
 <h2 align="center">My stack</h2>
 <p align="center">
     <img height="40px" src="https://readme-components.vercel.app/api?component=logo&fill=001443&logo=react&svgfill=15d8fe">
