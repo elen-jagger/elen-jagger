@@ -13,9 +13,7 @@
     <img height="40px"  src="https://readme-components.vercel.app/api?component=logo&fill=001443&logo=node.js&svgfill=659b60">
     <img height="40px"  src="https://readme-components.vercel.app/api?component=logo&fill=001443&logo=github&svgfill=f6df1c">
     <img height="40px" src="https://readme-components.vercel.app/api?component=logo&fill=001443&logo=🚀&desc=Phaser">
-</p>
-<p align="center">
-<a href="https://www.codewars.com/users/elen-jagger" target="_blank"><img width="200px" src="https://www.codewars.com/users/elen-jagger/badges/large"></a>
+    <a href="https://www.codewars.com/users/elen-jagger" target="_blank"><img height="30px" src="https://www.codewars.com/users/elen-jagger/badges/micro"></a>
 </p>
 <h2 align="center">My projects</h2>
 <img width="250px" align="left" src="https://github.com/elen-jagger/elen-jagger/blob/main/css_selectors.jpg?raw=true">
